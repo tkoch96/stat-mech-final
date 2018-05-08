@@ -1,0 +1,4 @@
+Ncycle   Ninit   Npart   Linit   Temp
+ 				5000      10      64    .true.  3.107207
+Deltax   Box 
+ 				2      12.000

@@ -1,0 +1,720 @@
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.90000000000000002     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -808.15928219314503     
+ <P>                  :    8.6012105363310096E-002
+ Cv                   :    2912.8558208325157     
+ Frac. Acc. Displ.    :   0.40117968749999999     
+
+ Energy               :   -734.05749999478314     
+ Energy Sim.          :   -734.05749999482714     
+ Diff                 :    4.3996806198265404E-011
+ Virial               :   -495.41573440439458     
+ Virial Sim.          :   -495.41573440438293     
+ Diff                 :    1.1652900866465643E-011
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.91049999999999998     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -790.32894489786361     
+ <P>                  :    9.4329180103417343E-002
+ Cv                   :    2222.0076506571913     
+ Frac. Acc. Displ.    :   0.41280468749999999     
+
+ Energy               :   -712.39340066650789     
+ Energy Sim.          :   -712.39340066656814     
+ Diff                 :    6.0254023992456496E-011
+ Virial               :   -729.08538111834184     
+ Virial Sim.          :   -729.08538111834730     
+ Diff                 :    5.4569682106375694E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.92110000000000003     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -775.78685035206149     
+ <P>                  :    7.3949545516588264E-002
+ Cv                   :    2734.6517836101675     
+ Frac. Acc. Displ.    :   0.42658593750000001     
+
+ Energy               :   -718.78432962287980     
+ Energy Sim.          :   -718.78432962293482     
+ Diff                 :    5.5024429457262158E-011
+ Virial               :   -505.55741388014059     
+ Virial Sim.          :   -505.55741388012837     
+ Diff                 :    1.2221335055073723E-011
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.93159999999999998     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -751.35308730721397     
+ <P>                  :    8.5825045144262369E-002
+ Cv                   :    3879.5303973324626     
+ Frac. Acc. Displ.    :   0.44033593750000000     
+
+ Energy               :   -655.66672352279727     
+ Energy Sim.          :   -655.66672352287890     
+ Diff                 :    8.1627149484120309E-011
+ Virial               :   -318.97860549954049     
+ Virial Sim.          :   -318.97860549953919     
+ Diff                 :    1.3073986337985843E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.94210000000000005     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -773.29560553975659     
+ <P>                  :    8.0159740784290820E-002
+ Cv                   :    2782.3972228059110     
+ Frac. Acc. Displ.    :   0.42899218750000001     
+
+ Energy               :   -686.55864018872307     
+ Energy Sim.          :   -686.55864018879720     
+ Diff                 :    7.4123818194493651E-011
+ Virial               :   -349.25971932315935     
+ Virial Sim.          :   -349.25971932316594     
+ Diff                 :    6.5938365878537297E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.95260000000000000     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -751.85279046991923     
+ <P>                  :    7.6532584407579554E-002
+ Cv                   :    3277.8488341374282     
+ Frac. Acc. Displ.    :   0.44652343750000001     
+
+ Energy               :   -671.39330469006313     
+ Energy Sim.          :   -671.39330469012270     
+ Diff                 :    5.9571902966126800E-011
+ Virial               :   -623.58107761076337     
+ Virial Sim.          :   -623.58107761076076     
+ Diff                 :    2.6147972675971687E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.96319999999999995     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -760.67531052874290     
+ <P>                  :   0.10970766852125299     
+ Cv                   :    2589.0009341707237     
+ Frac. Acc. Displ.    :   0.43738281250000000     
+
+ Energy               :   -691.28415084129347     
+ Energy Sim.          :   -691.28415084135213     
+ Diff                 :    5.8662408264353871E-011
+ Virial               :   -735.47761824004715     
+ Virial Sim.          :   -735.47761824004544     
+ Diff                 :    1.7053025658242404E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.97370000000000001     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -747.85234932987726     
+ <P>                  :   0.12941953232671860     
+ Cv                   :    4279.5999131698763     
+ Frac. Acc. Displ.    :   0.44669531250000000     
+
+ Energy               :   -652.87531317001810     
+ Energy Sim.          :   -652.87531317008177     
+ Diff                 :    6.3664629124104977E-011
+ Virial               :   -276.03283486785233     
+ Virial Sim.          :   -276.03283486785563     
+ Diff                 :    3.2969182939268649E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.98419999999999996     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -760.21531962052370     
+ <P>                  :   0.14546751832602442     
+ Cv                   :    2624.9404580659598     
+ Frac. Acc. Displ.    :   0.44046093749999998     
+
+ Energy               :   -705.36944514324728     
+ Energy Sim.          :   -705.36944514333061     
+ Diff                 :    8.3332452049944550E-011
+ Virial               :   -235.94734720085174     
+ Virial Sim.          :   -235.94734720085125     
+ Diff                 :    4.8316906031686813E-013
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :   0.99470000000000003     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -711.74634655367993     
+ <P>                  :   0.10821744071215389     
+ Cv                   :    5441.8335930378253     
+ Frac. Acc. Displ.    :   0.47423437499999999     
+
+ Energy               :   -611.85849120825537     
+ Energy Sim.          :   -611.85849120834121     
+ Diff                 :    8.5833562479820102E-011
+ Virial               :   -501.40572659947742     
+ Virial Sim.          :   -501.40572659947395     
+ Diff                 :    3.4674485505092889E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0053000000000001     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -705.37129286699474     
+ <P>                  :   0.11940634152666033     
+ Cv                   :    6114.5569889854241     
+ Frac. Acc. Displ.    :   0.47469531250000002     
+
+ Energy               :   -615.46463638603370     
+ Energy Sim.          :   -615.46463638613682     
+ Diff                 :    1.0311396181350574E-010
+ Virial               :   -578.04144380776393     
+ Virial Sim.          :   -578.04144380777143     
+ Diff                 :    7.5033312896266580E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0158000000000000     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -728.62325747361058     
+ <P>                  :   0.12336225813333095     
+ Cv                   :    4316.1901793514371     
+ Frac. Acc. Displ.    :   0.46618749999999998     
+
+ Energy               :   -652.74742626108241     
+ Energy Sim.          :   -652.74742626114198     
+ Diff                 :    5.9571902966126800E-011
+ Virial               :   -907.10367271688278     
+ Virial Sim.          :   -907.10367271687414     
+ Diff                 :    8.6401996668428183E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0263000000000000     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -716.24548104778398     
+ <P>                  :   0.11419181132849270     
+ Cv                   :    4485.3577391484132     
+ Frac. Acc. Displ.    :   0.47773437499999999     
+
+ Energy               :   -652.95853005602714     
+ Energy Sim.          :   -652.95853005608717     
+ Diff                 :    6.0026650317013264E-011
+ Virial               :   -827.51369307038897     
+ Virial Sim.          :   -827.51369307040375     
+ Diff                 :    1.4779288903810084E-011
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0367999999999999     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -711.50326832725443     
+ <P>                  :   0.15671445707413229     
+ Cv                   :    4858.1042174700060     
+ Frac. Acc. Displ.    :   0.47449218750000000     
+
+ Energy               :   -602.87625967505915     
+ Energy Sim.          :   -602.87625967515146     
+ Diff                 :    9.2313712229952216E-011
+ Virial               :   -295.10551104153444     
+ Virial Sim.          :   -295.10551104154717     
+ Diff                 :    1.2732925824820995E-011
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0474000000000001     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -713.22025907729562     
+ <P>                  :   0.14204786211166967     
+ Cv                   :    3585.5544791128264     
+ Frac. Acc. Displ.    :   0.47541406250000001     
+
+ Energy               :   -651.53183686546731     
+ Energy Sim.          :   -651.53183686554678     
+ Diff                 :    7.9467099567409605E-011
+ Virial               :   -980.34304182437563     
+ Virial Sim.          :   -980.34304182436540     
+ Diff                 :    1.0231815394945443E-011
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0579000000000001     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -701.72461197814596     
+ <P>                  :   0.16023442496165555     
+ Cv                   :    6020.4994638463895     
+ Frac. Acc. Displ.    :   0.48260156250000003     
+
+ Energy               :   -603.11392570099281     
+ Energy Sim.          :   -603.11392570106818     
+ Diff                 :    7.5374373409431428E-011
+ Virial               :   -848.93546512460489     
+ Virial Sim.          :   -848.93546512459784     
+ Diff                 :    7.0485839387401938E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0684000000000000     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -725.80057139608061     
+ <P>                  :   0.16117268200781290     
+ Cv                   :    4151.4895926045920     
+ Frac. Acc. Displ.    :   0.47154687499999998     
+
+ Energy               :   -632.34078873305407     
+ Energy Sim.          :   -632.34078873314206     
+ Diff                 :    8.7993612396530807E-011
+ Virial               :   -562.54440258394629     
+ Virial Sim.          :   -562.54440258395402     
+ Diff                 :    7.7307049650698900E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0789000000000000     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -688.73528937391427     
+ <P>                  :   0.16491617161091535     
+ Cv                   :    4694.4950522922854     
+ Frac. Acc. Displ.    :   0.49292968749999999     
+
+ Energy               :   -619.54408007317079     
+ Energy Sim.          :   -619.54408007324923     
+ Diff                 :    7.8443918027915061E-011
+ Virial               :   -417.33089107060340     
+ Virial Sim.          :   -417.33089107061164     
+ Diff                 :    8.2422957348171622E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.0894999999999999     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -699.72805083627770     
+ <P>                  :   0.16511607451370561     
+ Cv                   :    3383.3794895905580     
+ Frac. Acc. Displ.    :   0.49187500000000001     
+
+ Energy               :   -618.10084437123885     
+ Energy Sim.          :   -618.10084437131786     
+ Diff                 :    7.9012352216523141E-011
+ Virial               :   -314.36480899485377     
+ Virial Sim.          :   -314.36480899485178     
+ Diff                 :    1.9895196601282805E-012
+
+ Ncycle               :          500
+ Ninit                :           10
+ Linit                :  F
+ Temp                 :    1.1000000000000001     
+ Deltax               :   0.20000000000000001     
+
+ Read Coordinates From Disk
+
+ Box                  :    9.4850499999999993     
+ Npart                :          256
+ <Rho>                :   0.29999988727273819     
+
+ Initial Energy Box   :   -957.32323703943371     
+ Initial Virial Box   :   -1024.0599700015359     
+
+
+
+ The Simulation Is Running.....
+
+
+
+
+ Averages
+
+ <E>                  :   -678.55106514617080     
+ <P>                  :   0.15749124509097351     
+ Cv                   :    4315.0015166439671     
+ Frac. Acc. Displ.    :   0.50335156250000002     
+
+ Energy               :   -580.62862804043505     
+ Energy Sim.          :   -580.62862804050837     
+ Diff                 :    7.3328010330442339E-011
+ Virial               :   -599.02771602760424     
+ Virial Sim.          :   -599.02771602760629     
+ Diff                 :    2.0463630789890885E-012
+
